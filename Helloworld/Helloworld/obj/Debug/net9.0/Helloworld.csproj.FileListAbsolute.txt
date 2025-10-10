@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\bin\Debug\net9.0\Helloworld.deps.json
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\bin\Debug\net9.0\Helloworld.dll
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\bin\Debug\net9.0\Helloworld.pdb
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\obj\Debug\net9.0\Helloworld.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\obj\Debug\net9.0\Helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\obj\Debug\net9.0\Helloworld.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\obj\Debug\net9.0\Helloworld.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\obj\Debug\net9.0\Helloworld.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\obj\Debug\net9.0\Helloworld.dll
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\obj\Debug\net9.0\refint\Helloworld.dll
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\obj\Debug\net9.0\Helloworld.pdb
+C:\Users\ASUS\source\repos\Helloworld\Helloworld\obj\Debug\net9.0\ref\Helloworld.dll
